@@ -1,0 +1,12 @@
+.footer {
+    margin-top: 20px;
+    background: #242424;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right {
+    flex-grow: 1;
+    color:#878787;
+    font-size: 12px;
+}

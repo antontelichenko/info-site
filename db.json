@@ -1,0 +1,145 @@
+{
+  "articles":[
+    {
+      "id":1,
+      "title":"5 things for cars",
+      "image":"http://image.superstreetonline.com/f/35884246+w+h+q80+re0+cr1/modp-1201-07%2B10-best-track-cars%2Batom.jpg",
+      "body":"its body of first article!!!",
+      "date":"10/11/2017",
+      "author":"john Seman",
+      "tags":["cars","coolArticle"]
+    },
+    {
+      "id":2,
+      "title":"hi, i`m title",
+      "image":"http://image.superstreetonline.com/f/35884246+w+h+q80+re0+cr1/modp-1201-07%2B10-best-track-cars%2Batom.jpg",
+      "body":"its body of second article!!!",
+      "date":"18/11/2017",
+      "author":"name surname",
+      "tags":["NoTagsInMyArticle"]
+    },
+    {
+      "id":3,
+      "title":"stateyka moya)",
+      "image":"http://image.superstreetonline.com/f/35884246+w+h+q80+re0+cr1/modp-1201-07%2B10-best-track-cars%2Batom.jpg",
+      "body":"its body of third article!!!",
+      "date":"22/12/2017",
+      "author":"no one",
+      "tags":["cars","third"]
+    },
+    {
+      "id":4,
+      "title":"aricle car car car",
+      "image":"http://image.superstreetonline.com/f/35884246+w+h+q80+re0+cr1/modp-1201-07%2B10-best-track-cars%2Batom.jpg",
+      "body":"article!!!",
+      "date":"10/1/2018",
+      "author":"john Seman",
+      "tags":["cars","coolArticle"]
+    },
+    {
+      "id":5,
+      "title":"do you like your car???",
+      "image":"http://image.superstreetonline.com/f/35884246+w+h+q80+re0+cr1/modp-1201-07%2B10-best-track-cars%2Batom.jpg",
+      "body":"5 seconds article!!!",
+      "date":"18/11/2017",
+      "author":"name surname",
+      "tags":["NoTagsInMyArticle"]
+    },
+    {
+      "id":6,
+      "title":"stateyka moya)",
+      "body":"its body of third article!!!",
+      "image":"http://image.superstreetonline.com/f/35884246+w+h+q80+re0+cr1/modp-1201-07%2B10-best-track-cars%2Batom.jpg",
+      "date":"22/12/2017",
+      "author":"no one",
+      "tags":["cars","third"]
+    },
+    {
+      "id":7,
+      "title":"5 things for cars",
+      "image":"http://image.superstreetonline.com/f/35884246+w+h+q80+re0+cr1/modp-1201-07%2B10-best-track-cars%2Batom.jpg",
+      "body":"its body of first article!!!",
+      "date":"10/11/2017",
+      "author":"john Seman",
+      "tags":["cars","coolArticle"]
+    },
+    {
+      "id":8,
+      "title":"hi, i`m title",
+      "image":"http://image.superstreetonline.com/f/35884246+w+h+q80+re0+cr1/modp-1201-07%2B10-best-track-cars%2Batom.jpg",
+      "body":"its body of second article!!!",
+      "date":"18/11/2017",
+      "author":"name surname",
+      "tags":["NoTagsInMyArticle"]
+    },
+    {
+      "id":9,
+      "title":"stateyka moya)",
+      "image":"http://image.superstreetonline.com/f/35884246+w+h+q80+re0+cr1/modp-1201-07%2B10-best-track-cars%2Batom.jpg",
+      "body":"its body of third article!!!",
+      "date":"22/12/2017",
+      "author":"no one",
+      "tags":["cars","third"]
+    }
+  ],
+  "videos": [
+    {
+      "id":1,
+      "title":"car",
+      "url":"BbyuSel47Nk",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfLaVFOPUJHEFGJQUrWcmzyU6THZ3xxPWFM6OW-IsLu5tnJtn",
+      "body":"its body of first article!!!",
+      "date":"18/11/2017",
+      "author":"name surname",
+      "tags":["NoTagsInMyArticle"]
+    },
+    {
+      "id":2,
+      "title":"car 911",
+      "url":"BbyuSel47Nk",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfLaVFOPUJHEFGJQUrWcmzyU6THZ3xxPWFM6OW-IsLu5tnJtn",
+      "body":"its body of second article!!!",
+      "date":"22/12/2017",
+      "author":"no one",
+      "tags":["cars","third"]
+    },{
+      "id":3,
+      "title":"car top",
+      "url":"W_XxMvmjsZQ",
+      "image":"http://pics.v7.top.rbk.ru/v6_top_pics/media/img/2/89/754727384126892.jpeg",
+      "body":"its body of third article!!!",
+      "date":"22/12/2017",
+      "author":"no one",
+      "tags":["cars","third"]
+    },
+    {
+      "id":4,
+      "title":"car4444",
+      "url":"BbyuSel47Nk",
+      "image":"http://image.superstreetonline.com/f/35884246+w+h+q80+re0+cr1/modp-1201-07%2B10-best-track-cars%2Batom.jpg",
+      "body":"hi, it`s body of video",
+      "date":"18/11/2018",
+      "author":"name surname",
+      "tags":["NoTagsInMyArticle"]
+    },
+    {
+      "id":5,
+      "title":"car 5",
+      "url":"BbyuSel47Nk",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfLaVFOPUJHEFGJQUrWcmzyU6THZ3xxPWFM6OW-IsLu5tnJtn",
+      "body":"ihi, it`s body of video",
+      "date":"22/12/2018",
+      "author":"no one",
+      "tags":["cars","third"]
+    },{
+      "id":6,
+      "title":"car is cool",
+      "url":"W_XxMvmjsZQ",
+      "image":"http://pics.v7.top.rbk.ru/v6_top_pics/media/img/2/89/754727384126892.jpeg",
+      "body":"ihi, it`s body of video",
+      "date":"22/12/2018",
+      "author":"no one",
+      "tags":["cars","third"]
+    }
+  ]
+}
