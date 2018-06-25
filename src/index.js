@@ -2,15 +2,17 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom';
 import Routes from './routes';
-import "../node_modules/slick-carousel/slick/slick.css";
-import "../node_modules/slick-carousel/slick/slick-theme.css";
+import {firebase} from './firebase';
 
-const App = () => {
+const App = (props) => {
     return(
         <BrowserRouter>
-            <Routes/>
+            <Routes {...props} />
         </BrowserRouter>
     )
 }
 
-ReactDOM.render(<App />, document.getElementById('root'));
+
+firebase.auth().onAuthStateChanged((user)=>{
+    ReactDOM.render(<App user={user} />, document.getElementById('root'));
+})
